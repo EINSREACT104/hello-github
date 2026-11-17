@@ -3,4 +3,4 @@ xte resolusi
 -membuat platform untuk mengelola video
 -membuat forum diskusi
 -kolaborasi
--membuat merch shop
+-membuat vlog
